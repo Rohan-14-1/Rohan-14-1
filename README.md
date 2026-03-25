@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rohan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Building+Smart+Solutions;Always+Learning+New+Things;Turning+Ideas+into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Building+Smart+Solutions;Computer+Vision+%7C+NLP+%7C+ML;Turning+Ideas+into+Reality" />
+</p>
+
+<p align="center">
+  🌐 <a href="https://rohan-14-1.github.io/portfolio/">Visit My Portfolio</a>
 </p>
 
 ---
@@ -24,20 +28,37 @@
 
 ## 🧠 Featured Projects
 
-### 🔹 Smart Grocery List & Meal Planner
-🚀 AI-powered meal planning system  
-🛠️ Built with Python & Machine Learning  
+### 🚗 AI Car: Real-time Damaged Road & Lane Detection
+- Detects potholes, cracks & lane deviations using Computer Vision  
+- Improves road safety for autonomous driving  
+- **Tech:** Python, TensorFlow, OpenCV, Scikit-learn, Keras  
 
-### 🔹 AI Portfolio Assistant
-🤖 Custom AI agent integrated into portfolio  
-⚡ Built with APIs & JavaScript  
+🔗 Code | 🔗 Demo  
+
+---
+
+### 💳 Loan Eligibility Prediction System
+- Predicts loan approval in real-time using ML models  
+- Uses financial + user data for accurate decisions  
+- **Tech:** Python, Pandas, NumPy, Scikit-learn, Flask, HTML, CSS  
+
+🔗 Code | 🔗 Live  
+
+---
+
+### ⚖️ Generative AI for Legal Docs
+- Simplifies contracts & extracts key clauses  
+- Performs compliance checks using LLMs & NLP  
+- **Tech:** NLP, OCR, LLM  
+
+🔗 Code | 🔗 Live  
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,git,github,tensorflow" />
 </p>
 
 ---
