@@ -4,8 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Building+Smart+Solutions;Computer+Vision+%7C+NLP+%7C+ML;Turning+Ideas+into+Reality" />
 </p>
 
+<h2 align="center">🌐 My Portfolio</h2>
+
 <p align="center">
-  🌐 <a href="https://rohan-14-1.github.io/portfolio/">Visit My Portfolio</a>
+  <a href="https://rohan-14-1.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/CLICK%20HERE%20TO%20VIEW%20PORTFOLIO-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
 </p>
 
 ---
