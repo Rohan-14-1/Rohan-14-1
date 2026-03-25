@@ -40,8 +40,8 @@
     <img src="https://img.shields.io/badge/Code-0A0A0A?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0A0A0A"/>
   </a>
   
-  <a href="#">
-    <img src="https://img.shields.io/badge/Live-00C2FF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+ <a href="#">
+    <img src="https://img.shields.io/badge/🚀%20Live-1F6FEB?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
