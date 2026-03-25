@@ -41,7 +41,7 @@
   </a>
   
   <a href="https://your-live-link.com">
-    <img src="https://img.shields.io/badge/Live-1F6FEB?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀Live-1F6FEB?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
@@ -58,7 +58,7 @@
   </a>
   
   <a href="https://loanpredict-ai-r5rg.onrender.com/">
-    <img src="https://img.shields.io/badge/Live-00C2FF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/🚀Live-1F6FEB?style=for-the-badge&logoColor=white"/>
   </a>
 </p>  
 
@@ -75,7 +75,7 @@
   </a>
   
   <a href="#">
-    <img src="https://img.shields.io/badge/Live-00C2FF?style=for-the-badge&logo=vercel&logoColor=000000"/>
+    <img src="https://img.shields.io/badge/🚀Live-1F6FEB?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
