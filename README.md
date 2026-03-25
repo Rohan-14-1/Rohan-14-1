@@ -146,10 +146,3 @@
 ## ⚡ Fun Fact
 💡 I enjoy turning complex ideas into simple AI solutions  
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rohan-14-1/Rohan-14-1/output/github-contribution-grid-snake.svg" />
-</p>
