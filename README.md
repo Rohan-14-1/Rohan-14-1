@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rohan</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ROHAN%20MANDAL&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20%E2%80%94%20Data%20Science%20%7C%20AI%20%2F%20ML%20%7C%20Android&descAlignY=54&descSize=18" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student;Building+Smart+Solutions;Computer+Vision+%7C+NLP+%7C+ML;Turning+Ideas+into+Reality" />
