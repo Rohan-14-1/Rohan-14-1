@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=ROHAN%20MANDAL&fontSize=62&fontColor=fff&animation=twinkling&fontAlignY=32&desc=CSE%20%7C%20AI%20%2F%20ML%20%7C%20&descAlignY=54&descSize=18" />
 
