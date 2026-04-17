@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rohan-14-1.github.io/portfolio/">
+  <a href="https://rohanmdl.vercel.app/">
     <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
