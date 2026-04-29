@@ -35,7 +35,7 @@
 ### 🚗 AI Car: Real-time Damaged Road & Lane Detection
 - Detects potholes, cracks & lane deviations using Computer Vision  
 - Improves road safety for autonomous driving  
-- **Tech:** Python, TensorFlow, OpenCV, Scikit-learn, Keras  
+- **Tech:** Python, TensorFlow, OpenCV, Scikit-learn,
 
 <p>
   <a href="#">
