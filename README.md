@@ -146,7 +146,7 @@
 ---
 
 ## ⚡ Fun Fact
-💡 I enjoy turning complex ideas into simple AI solutions  
+💡 I enjoy turning complex ideas into simple AI solutions.  
 
 <div align="center">
 
