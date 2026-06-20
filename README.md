@@ -50,7 +50,7 @@
 ---
 
 ### 💳 Loan Eligibility Prediction System
-- Predicts loan approval in real-time using ML models  
+- Predicts loan approval in real-time using ML models.  
 - Uses financial + user data for accurate decisions  
 - **Tech:** Python, Pandas, NumPy, Scikit-learn, Flask, HTML, CSS  
 
