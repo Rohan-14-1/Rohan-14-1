@@ -18,7 +18,7 @@
 👨‍💻 B.Tech in Artificial Intelligence and Machine Learning (AIML).  
 💡 Passionate about building intelligent systems.  
 📚 Always learning and exploring new technologies.  
-⚡ Focused on solving real-world problems using AI  
+⚡ Focused on solving real-world problems using AI. 
 
 ---
 
