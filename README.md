@@ -23,7 +23,7 @@
 ---
 
 ## 🎯 Current Focus
-- 🔭 Working on: AI-based real-world projects  
+- 🔭 Working on: AI-based real-world projects.  
 - 🌱 Learning: Deep Learning & NLP  
 - 🤝 Open for: Collaboration on AI/ML projects  
 - 💬 Ask me about: Python, Machine Learning, GitHub  
