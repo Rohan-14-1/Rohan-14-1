@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Featured Projects
+## 🧠 Featured Projects.
 
 ### 🚗 AI Car: Real-time Damaged Road & Lane Detection.
 - Detects potholes, cracks & lane. deviations using Computer Vision.  
