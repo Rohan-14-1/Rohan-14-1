@@ -69,7 +69,7 @@
 ### ⚖️ Generative AI for Legal Docs
 - Simplifies contracts & extracts key clauses.  
 - Performs compliance checks using LLMs & NLP.  
-- **Tech:** NLP, OCR, LLM.  
+- **Tech:** NLP, OCR, LLM
 
 <p>
   <a href="https://github.com/Rohan-14-1/Generative-AI-for-Legal-Docs.git">
