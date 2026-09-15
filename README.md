@@ -83,7 +83,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,mongodb,git,github,tensorflow" />
